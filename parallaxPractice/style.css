@@ -56,6 +56,13 @@ section{
     color: white;
     padding: 5rem 0;
 }
+.bg{
+    position: relative;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
 .bg1{
     background-image: url(sport-1.jpg);
 }
