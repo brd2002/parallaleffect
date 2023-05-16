@@ -64,6 +64,15 @@ section{
     background-position: center;
     height: 500px;
 }
+.desc {
+    position:absolute;
+    background-color: white;
+    padding: 0.5rem 2.5rem;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50% );
+    color: black;
+}
 .bg1{
     background-image: url(sport-1.jpg);
 }
